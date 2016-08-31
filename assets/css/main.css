@@ -251,6 +251,12 @@ a:after {
 	color: #1abc9c;
 }
 
+.viadeoImage {
+    width: 20px;
+    height: 20px;
+    background-color: #1abc9c;
+}
+
 /* Copyright Wrap */
 
 #c {
