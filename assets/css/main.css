@@ -251,10 +251,10 @@ a:after {
 	color: #1abc9c;
 }
 
-.viadeoImage {
+.linkImage {
     width: 20px;
     height: 20px;
-    background-color: #1abc9c;
+    /*background-color: #1abc9c;*/
 }
 
 /* Copyright Wrap */
